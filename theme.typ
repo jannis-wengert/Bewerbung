@@ -83,7 +83,7 @@
 
     [
       #text(
-        size: 8.7pt,
+        size: 11pt,
         fill: muted,
         weight: "semibold",
         date,
@@ -102,7 +102,7 @@
         #v(0.05em)
 
         #text(
-          size: 9pt,
+          size: 11pt,
           fill: muted,
           subtitle,
         )
@@ -110,14 +110,14 @@
 
       #if body != none [
 
-        #v(0.18em)
+        #v(0.15em)
 
         #body
       ]
     ],
   )
 
-  v(0.58em)
+  v(0.5em)
 }
 
 
@@ -144,7 +144,7 @@
 #let contact-line(items) = {
 
   set text(
-    size: 8.8pt,
+    size: 11pt,
     fill: muted,
   )
 

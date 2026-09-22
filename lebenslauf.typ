@@ -75,7 +75,7 @@
   subtitle: "Carl Zeiss SMT GmbH",
   body: bullet-list((
     [Organisation eines Bauteilsystemlagers],
-    [Konzepterstellung für einen Mechanikarbeitsplatz mit Kniehebelpresse],
+    [Konzepterstellung für einen Mechanikarbeitsplatz],
     [Durchführung von Prüfmittelkalibrierungen],
   )),
 )
@@ -100,7 +100,7 @@
 
 #section("Technische Kenntnisse")
 
-#skill-row("CAD / Konstruktion", [Siemens NX, Autodesk Fusion 360])
+#skill-row("CAD", [Siemens NX, Autodesk Fusion 360])
 #skill-row("Elektrotechnik", [KiCad, Siemens TIA Portal])
 #skill-row("Programmierung", [Python, C (Grundlagen)])
 #skill-row("Simulation", [MATLAB / Simulink, Stateflow])
