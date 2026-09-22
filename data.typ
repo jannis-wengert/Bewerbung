@@ -4,11 +4,12 @@
 
 #let person = (
   name: "Jannis Felix Wengert",
-  headline: "B.Eng. Mechatronik | Hochschule Aalen",
-  location: "89561 Dischingen",
+  headline: "Mechatronikstudent · Hochschule Aalen",
+  location: "Am Alten Bahnweg 20",
+  city: "89561 Dischingen",
   phone: "01590 6372194",
   email: "Jannis.Wengert@gmx.de",
-  linkedin: "linkedin.com/in/jannis-wengert",
+  linkedin: "LinkedIn / jannis-wengert",
 )
 
 #let application = (

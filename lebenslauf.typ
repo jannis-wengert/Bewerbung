@@ -17,17 +17,35 @@
 
   #box(width: 100% - 52mm)[
     #text(size: 24pt, weight: "bold", fill: accent, person.name)
+
     #v(0.12em)
-    #text(size: 11pt, fill: accent-strong, weight: "semibold", "Mechatronikstudent | Hochschule Aalen")
-    #v(0.8em)
-    #line(length: 100%, stroke: 0.9pt + light)
-    #v(0.45em)
-    #contact-line((
-      person.location,
-      person.phone,
-      person.email,
-      person.linkedin,
-    ))
+
+    #text(size: 11pt, fill: accent-strong, weight: "semibold", person.headline)
+
+    #v(0.9em)
+
+    #grid(
+      columns: (1fr, 1fr),
+      column-gutter: 5.5mm,
+      row-gutter: 2.5mm,
+      align: (left, left),
+      [
+        #text(size: 11pt, fill: muted)[#person.location]
+      ],
+      [
+        #text(size: 11pt, fill: muted)[#person.phone]
+      ],
+      [
+        #text(size: 11pt, fill: muted)[#person.city]
+      ],
+      [],
+      [
+        #text(size: 11pt, fill: muted)[Jannis.Wengert\@gmx.de]
+      ],
+      [
+        #text(size: 11pt, fill: muted)[linkedin.com/in/jannis-wengert]
+      ],
+    )
   ]
 ]
 
@@ -100,11 +118,11 @@
 
 #section("Technische Kenntnisse")
 
-#skill-row("CAD", [Siemens NX, Autodesk Fusion 360])
-#skill-row("Elektrotechnik", [KiCad, Siemens TIA Portal])
+#skill-row("Konstruktion", [Siemens NX, Autodesk Fusion 360])
+#skill-row("Automatisierung", [Siemens TIA Portal])
 #skill-row("Programmierung", [Python, C (Grundlagen)])
 #skill-row("Simulation", [MATLAB / Simulink, Stateflow])
-#skill-row("Software", [VS Code, Git, Microsoft Office])
+#skill-row("Tools", [VS Code, Git, Microsoft Office (Word, Excel, PowerPoint)])
 #skill-row("Sprachen", [Deutsch - Muttersprache; Englisch - gute Kenntnisse])
 
 #section("Schulbildung")
@@ -138,7 +156,7 @@
   subtitle: "FC Härtsfeld 03",
 )
 
-#skill-row("Interessen", [Fußball, Radsport, 3D-Druck])
+#skill-row("Interessen", [Fußball, Mountainbiking, Joggen, 3D-Druck])
 
 #v(0.8em)
 #align(right)[
