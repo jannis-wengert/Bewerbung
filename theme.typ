@@ -23,7 +23,7 @@
   )
 
   set par(
-    leading: 0.58em,
+    leading: 0.55em,
     spacing: 0.55em,
   )
 
@@ -37,7 +37,7 @@
 
 #let section(title) = {
 
-  v(0.75em)
+  v(0.55em)
 
   grid(
     columns: (auto, 1fr),
@@ -61,7 +61,7 @@
     ]
   )
 
-  v(0.42em)
+  v(0.28em)
 }
 
 
@@ -117,7 +117,7 @@
     ],
   )
 
-  v(0.5em)
+  v(0.35em)
 }
 
 

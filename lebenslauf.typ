@@ -140,5 +140,7 @@
 
 #skill-row("Interessen", [Fußball, Radsport, 3D-Druck])
 
-#v(1.2em)
-#text(size: 8.5pt, fill: muted)[Dischingen, #today-de]
+#v(0.8em)
+#align(right)[
+  #text(size: 11pt, fill: muted)[Dischingen, #today-de]
+]

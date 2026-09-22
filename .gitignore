@@ -1,0 +1,10 @@
+# Ignore generated PDF exports
+*.pdf
+
+# Ignore image assets
+*.jpg
+*.jpeg
+*.png
+
+# Ignore attachment folder
+Anlage/
