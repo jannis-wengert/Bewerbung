@@ -1,6 +1,6 @@
 
-#import "theme.typ": *
-#import "data.typ": person, application
+#import "../theme.typ": *
+#import "../data.typ": person, application
 
 #setup()
 #set page(margin: (top: 18mm, bottom: 18mm, left: 22mm, right: 22mm))
@@ -96,7 +96,7 @@ Mit freundlichen Grüßen
 
 #v(2.2em)
 
-#image("Unterschrift.jpg", width: 26mm)
+#image("../Bilder/Unterschrift.jpg", width: 26mm)
 
 #v(0.5em)
 

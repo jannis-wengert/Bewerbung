@@ -1,5 +1,5 @@
-#import "theme.typ": *
-#import "data.typ": person, today-de
+#import "../theme.typ": *
+#import "../data.typ": person, today-de
 
 #setup()
 
@@ -10,7 +10,7 @@
       inset: 0pt,
       radius: 4pt,
       [
-        #image("Bewerbungsbild.jpg", width: 38mm)
+        #image("../Bilder/Bewerbungsbild.jpg", width: 38mm)
       ],
     )
   ]
@@ -122,7 +122,7 @@
 #skill-row("Automatisierung", [Siemens TIA Portal])
 #skill-row("Programmierung", [Python, C (Grundlagen)])
 #skill-row("Simulation", [MATLAB / Simulink, Stateflow])
-#skill-row("Tools", [VS Code, Git, Microsoft Office (Word, Excel, PowerPoint)])
+#skill-row("Tools", [VS Code, Git, Microsoft Office (Word, PowerPoint, Excel)])
 #skill-row("Sprachen", [Deutsch - Muttersprache; Englisch - gute Kenntnisse])
 
 #section("Schulbildung")

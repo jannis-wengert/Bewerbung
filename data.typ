@@ -1,4 +1,3 @@
-
 #let today = datetime.today()
 #let today-de = today.display("[day].[month repr:long] [year]")
 
