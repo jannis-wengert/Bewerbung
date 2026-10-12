@@ -5,21 +5,20 @@ Eine einfache und saubere Typst-Vorlage für Lebenslauf und Anschreiben mit kons
 ## Inhalt
 
 - `theme.typ` – gemeinsames Layout und Stil
-- `data.typ` – persönliche Daten, Firmeninformationen und dynamisches Datum
-- `lebenslauf.typ` – Lebenslauf
-- `anschreiben.typ` – Anschreiben
+- `00_Vorlage/` – Vorlage für Lebenslauf und Anschreiben
+- `01_…` bis `06_…` – Bewerbungen je Unternehmen
 - `Bewerbungsbild.jpg` – optionales Bewerbungsfoto
 
 ## Verwendung
 
 1. VS Code mit der Typst-Erweiterung öffnen.
-2. In `data.typ` die persönlichen und firmenspezifischen Daten anpassen.
-3. `lebenslauf.typ` und `anschreiben.typ` je nach Bewerbung anpassen.
+2. In `Anschreiben.typ` und `Lebenslauf.typ` den Block „Daten (hier anpassen)“ am Dateianfang anpassen.
+3. Inhalte je nach Bewerbung anpassen.
 4. Typst kompilieren, z. B. mit:
 
 ```bash
-typst compile lebenslauf.typ
-typst compile anschreiben.typ
+typst compile 00_Vorlage/Lebenslauf.typ
+typst compile 00_Vorlage/Anschreiben.typ
 ```
 
 ## Design

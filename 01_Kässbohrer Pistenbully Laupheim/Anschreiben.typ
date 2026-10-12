@@ -1,6 +1,33 @@
 
 #import "../theme.typ": *
-#import "../data.typ": person, application
+// ===== Daten (hier anpassen) =====
+#let months-de = (
+  "Januar", "Februar", "März", "April", "Mai", "Juni",
+  "Juli", "August", "September", "Oktober", "November", "Dezember",
+)
+#let today = datetime.today()
+#let today-de = str(today.day()) + ". " + months-de.at(today.month() - 1) + " " + str(today.year())
+
+#let person = (
+  name: "Jannis Wengert",
+  headline: "Mechatronikstudent · Hochschule Aalen",
+  location: "Am Alten Bahnweg 20",
+  city: "89561 Dischingen",
+  phone: "01590 6372194",
+  email: "Jannis.Wengert@gmx.de",
+  linkedin: "LinkedIn / jannis-wengert",
+)
+
+#let application = (
+  company: "Kässbohrer Geländefahrzeug AG",
+  contact: "",
+  street: "Kässbohrerstr. 11",
+  city: "88471 Laupheim",
+  subject: "Initiativbewerbung um eine Bachelorarbeit",
+  date: today-de,
+  
+)
+// ===== Ende Daten =====
 
 #setup()
 #set page(margin: (top: 18mm, bottom: 18mm, left: 22mm, right: 22mm))
@@ -55,7 +82,7 @@
   columns: (1fr, auto),
   [
     #application.company \
-    #application.contact \
+    #if application.contact != "" [#application.contact \ ]
     #application.street \
     #application.city
   ],
@@ -72,23 +99,27 @@ Sehr geehrte Damen und Herren,
 
 #v(0.5em)
 
-im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen suche ich eine praxisnahe Aufgabenstellung für meine Bachelorarbeit. Meine bisherigen Erfahrungen aus Ausbildung, Studium und beruflicher Praxis möchte ich dabei gezielt in ein konkretes technisches Projekt einbringen.
+im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen steht ab März 2027 meine Bachelorarbeit an. Diese würde ich gerne in Zusammenarbeit mit Ihrem Unternehmen durchführen. Besonders interessieren mich technische Aufgabenstellungen, bei denen verschiedene Bereiche der Mechatronik zusammenwirken.
 
 #v(0.7em)
 
-Vor meinem Studium absolvierte ich eine Ausbildung zum Mechatroniker bei der Alfing Kessler Sondermaschinen GmbH. Während meines Studiums konnte ich meine praktischen Kenntnisse durch Tätigkeiten als Werkstudent bei Carl Zeiss SMT GmbH und ein Praxissemester bei AGCO Deutschland GmbH (Fendt) erweitern. Dort sammelte ich unter anderem Erfahrungen in den Bereichen Prüfstandstechnik, Messdatenauswertung, Programmierung und technische Entwicklung.
+Nach meinem Abitur absolvierte ich eine Ausbildung zum Mechatroniker bei der Alfing Kessler Sondermaschinen GmbH. Dort sammelte ich praktische Erfahrungen in Mechanik, Elektrotechnik, Automatisierung sowie bei der Montage und Inbetriebnahme von Sondermaschinen.
 
 #v(0.7em)
 
-Aktuell arbeite ich neben meinem Studium bei Vetter Getriebetechnik. Dort bin ich sowohl bei der Demontage und Montage von Getrieben als auch in der Lagerlogistik tätig. Zu meinen Aufgaben gehören die Zuordnung von Bauteilen anhand technischer Zeichnungen und Teilenummern, die Bestandsverwaltung sowie Kommissionierung, Verpackung und Versand.
+Während meines Studiums konnte ich diese Erfahrungen als Werkstudent bei Carl Zeiss SMT GmbH und während meines Praxissemesters bei AGCO GmbH (Fendt) weiter vertiefen. Bei Fendt arbeitete ich unter anderem an Prüfstands- und Fahrzeugversuchen sowie an der automatisierten Auswertung von Messdaten.
 
 #v(0.7em)
 
-Für meine Bachelorarbeit suche ich eine technische Aufgabenstellung aus den Bereichen Konstruktion, Elektrotechnik, Automatisierung, Programmierung oder Prüfstandstechnik. Besonders interessieren mich praxisnahe Themen, bei denen technische Lösungen entwickelt, untersucht oder optimiert werden.
+Aktuell arbeite ich neben meinem Studium bei Vetter Getriebetechnik, wo ich unter anderem bei der Demontage und Montage von Getrieben tätig bin.
 
 #v(0.7em)
 
-Gerne möchte ich meine Bachelorarbeit in Zusammenarbeit mit Ihrem Unternehmen durchführen und dabei meine bisherigen Erfahrungen sowie meine fachlichen Kenntnisse in ein konkretes Projekt einbringen. Über die Möglichkeit eines persönlichen Gesprächs und einen Austausch zu möglichen Themenstellungen freue ich mich sehr.
+Schon als Kind haben mich beim Skifahren Pistenraupen fasziniert. Besonders beeindruckt hat mich, wie sich die Fahrzeuge auch an steilen Hängen sicher bewegen. Heute interessiert mich vor allem die Technik dahinter und das Zusammenspiel von Mechanik, Elektronik und Steuerung. Daher würde ich meine Bachelorarbeit sehr gerne in diesem Entwicklungsumfeld durchführen.
+
+#v(0.7em)
+
+Über die Möglichkeit eines persönlichen Gesprächs und einen Austausch zu möglichen Themenstellungen freue ich mich sehr.
 
 #v(1.2em)
 

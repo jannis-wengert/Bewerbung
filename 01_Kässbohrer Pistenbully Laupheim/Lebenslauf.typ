@@ -1,5 +1,22 @@
 #import "../theme.typ": *
-#import "../data.typ": person, today-de
+// ===== Daten (hier anpassen) =====
+#let months-de = (
+  "Januar", "Februar", "März", "April", "Mai", "Juni",
+  "Juli", "August", "September", "Oktober", "November", "Dezember",
+)
+#let today = datetime.today()
+#let today-de = str(today.day()) + ". " + months-de.at(today.month() - 1) + " " + str(today.year())
+
+#let person = (
+  name: "Jannis Wengert",
+  headline: "Mechatronikstudent · Hochschule Aalen",
+  location: "Am Alten Bahnweg 20",
+  city: "89561 Dischingen",
+  phone: "01590 6372194",
+  email: "Jannis.Wengert@gmx.de",
+  linkedin: "LinkedIn / jannis-wengert",
+)
+// ===== Ende Daten =====
 
 #setup()
 
@@ -80,7 +97,7 @@
 #entry(
   "03/2026–08/2026",
   "Praxissemester",
-  subtitle: "AGCO Deutschland GmbH (Fendt)",
+  subtitle: "AGCO GmbH (Fendt)",
   body: bullet-list((
     [Entwicklung einer Testroutine für einen Durchflussteststand mit Python],
     [Fahrzeugtests zur Untersuchung des Rekuperationspotenzials elektrifizierter Traktorprototypen],
