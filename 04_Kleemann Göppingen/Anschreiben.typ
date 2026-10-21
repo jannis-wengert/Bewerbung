@@ -19,11 +19,11 @@
 )
 
 #let application = (
-  company: "Unternehmen",
-  contact: "Ansprechperson",
-  street: "Straße Hausnummer",
-  city: "PLZ Ort",
-  subject: "Initiativbewerbung um eine Bachelorarbeit im Bereich Mechatronik",
+  company: "Kleemann GmbH",
+  contact: "Annalu Wahl",
+  street: "Manfred-Wörner-Str. 160",
+  city: "73037 Göppingen",
+  subject: "Bewerbung um eine Bachelorarbeit im Bereich Mechatronik",
   date: today-de,
 )
 // ===== Ende Daten =====
@@ -94,27 +94,32 @@
 
 #v(4mm)
 
-Sehr geehrte Damen und Herren,
+
+Sehr geehrte Frau Wahl,
 
 #v(0.5em)
 
-im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen suche ich eine praxisnahe Aufgabenstellung für meine Bachelorarbeit. Meine bisherigen Erfahrungen aus Ausbildung, Studium und beruflicher Praxis möchte ich dabei gezielt in ein konkretes technisches Projekt einbringen.
+im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen steht ab März 2027 meine Bachelorarbeit an. Auf der Aalener Industriemesse konnte ich mich bereits kurz über die Möglichkeiten einer Abschlussarbeit bei Kleemann informieren. Daher möchte ich mich gerne für eine Bachelorarbeit in Ihrem Unternehmen bewerben.
 
 #v(0.7em)
 
-Vor meinem Studium absolvierte ich eine Ausbildung zum Mechatroniker bei der Alfing Kessler Sondermaschinen GmbH. Während meines Studiums konnte ich meine praktischen Kenntnisse durch Tätigkeiten als Werkstudent bei Carl Zeiss SMT GmbH und ein Praxissemester bei AGCO Deutschland GmbH (Fendt) erweitern. Dort sammelte ich unter anderem Erfahrungen in den Bereichen Prüfstandstechnik, Messdatenauswertung, Programmierung und technische Entwicklung.
+Nach meinem Abitur absolvierte ich eine Ausbildung zum Mechatroniker bei der Alfing Kessler Sondermaschinen GmbH. Dort sammelte ich praktische Erfahrungen in Mechanik, Elektrotechnik und Automatisierung sowie bei der Montage und Inbetriebnahme von Sondermaschinen.
 
 #v(0.7em)
 
-Aktuell arbeite ich neben meinem Studium bei Vetter Getriebetechnik. Dort bin ich sowohl bei der Demontage und Montage von Getrieben als auch in der Lagerlogistik tätig. Zu meinen Aufgaben gehören die Zuordnung von Bauteilen anhand technischer Zeichnungen und Teilenummern, die Bestandsverwaltung sowie Kommissionierung, Verpackung und Versand.
+Während meines Studiums konnte ich diese Erfahrungen als Werkstudent bei Carl Zeiss SMT GmbH und während meines Praxissemesters bei AGCO Deutschland GmbH (Fendt) weiter ausbauen. Bei Fendt arbeitete ich unter anderem an Prüfstands- und Fahrzeugversuchen sowie an der automatisierten Auswertung von Messdaten.
 
 #v(0.7em)
 
-Für meine Bachelorarbeit suche ich eine technische Aufgabenstellung aus den Bereichen Konstruktion, Elektrotechnik, Automatisierung, Programmierung oder Prüfstandstechnik. Besonders interessieren mich praxisnahe Themen, bei denen technische Lösungen entwickelt, untersucht oder optimiert werden.
+Aktuell arbeite ich neben meinem Studium bei Vetter Getriebetechnik. Dort unterstütze ich bei der Demontage und Montage von Getrieben sowie bei Arbeiten im Lager und Versand.
 
 #v(0.7em)
 
-Gerne möchte ich meine Bachelorarbeit in Zusammenarbeit mit Ihrem Unternehmen durchführen und dabei meine bisherigen Erfahrungen sowie meine fachlichen Kenntnisse in ein konkretes Projekt einbringen. Über die Möglichkeit eines persönlichen Gesprächs und einen Austausch zu möglichen Themenstellungen freue ich mich sehr.
+Besonders angesprochen hat mich eine zuvor ausgeschriebene Bachelorarbeit zum Einsatz fahrerloser Transportsysteme in der Intralogistik. Die Verbindung von Automatisierung mit realen Material- und Produktionsabläufen finde ich sehr interessant. Auch wenn dieses konkrete Thema nicht mehr verfügbar sein sollte, könnte ich mir eine Bachelorarbeit in diesem oder einem ähnlichen technischen Bereich sehr gut vorstellen.
+
+#v(0.7em)
+
+Über die Möglichkeit eines persönlichen Gesprächs und einen Austausch zu möglichen Themenstellungen freue ich mich sehr.
 
 #v(1.2em)
 

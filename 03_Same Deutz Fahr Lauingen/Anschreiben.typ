@@ -98,23 +98,27 @@ Sehr geehrte Damen und Herren,
 
 #v(0.5em)
 
-im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen suche ich eine praxisnahe Aufgabenstellung für meine Bachelorarbeit. Meine bisherigen Erfahrungen aus Ausbildung, Studium und beruflicher Praxis möchte ich dabei gezielt in ein konkretes technisches Projekt einbringen.
+im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen steht ab März 2027 meine Bachelorarbeit an. Auf der Aalener Industriemesse (AIM) hatte ich die Gelegenheit, mich kurz über die Möglichkeit einer Bachelorarbeit bei SDF zu informieren. Dabei habe ich erfahren, dass eine Bewerbung grundsätzlich möglich ist. Daher möchte ich mich gerne initiativ bei Ihnen bewerben.
 
 #v(0.7em)
 
-Vor meinem Studium absolvierte ich eine Ausbildung zum Mechatroniker bei der Alfing Kessler Sondermaschinen GmbH. Während meines Studiums konnte ich meine praktischen Kenntnisse durch Tätigkeiten als Werkstudent bei Carl Zeiss SMT GmbH und ein Praxissemester bei AGCO Deutschland GmbH (Fendt) erweitern. Dort sammelte ich unter anderem Erfahrungen in den Bereichen Prüfstandstechnik, Messdatenauswertung, Programmierung und technische Entwicklung.
+Nach meinem Abitur absolvierte ich eine Ausbildung zum Mechatroniker bei der Alfing Kessler Sondermaschinen GmbH. Dort sammelte ich praktische Erfahrungen in Mechanik, Elektrotechnik und Automatisierung sowie bei der Montage und Inbetriebnahme von Sondermaschinen.
 
 #v(0.7em)
 
-Aktuell arbeite ich neben meinem Studium bei Vetter Getriebetechnik. Dort bin ich sowohl bei der Demontage und Montage von Getrieben als auch in der Lagerlogistik tätig. Zu meinen Aufgaben gehören die Zuordnung von Bauteilen anhand technischer Zeichnungen und Teilenummern, die Bestandsverwaltung sowie Kommissionierung, Verpackung und Versand.
+Während meines Studiums konnte ich diese Erfahrungen als Werkstudent bei Carl Zeiss SMT GmbH und während meines Praxissemesters bei AGCO Deutschland GmbH (Fendt) weiter ausbauen. Bei Fendt arbeitete ich unter anderem an Prüfstands- und Fahrzeugversuchen sowie an der automatisierten Auswertung von Messdaten.
 
 #v(0.7em)
 
-Für meine Bachelorarbeit suche ich eine technische Aufgabenstellung aus den Bereichen Konstruktion, Elektrotechnik, Automatisierung, Programmierung oder Prüfstandstechnik. Besonders interessieren mich praxisnahe Themen, bei denen technische Lösungen entwickelt, untersucht oder optimiert werden.
+Aktuell arbeite ich neben meinem Studium bei Vetter Getriebetechnik. Dort unterstütze ich bei der Demontage und Montage von Getrieben sowie bei Arbeiten im Lager und Versand.
 
 #v(0.7em)
 
-Gerne möchte ich meine Bachelorarbeit in Zusammenarbeit mit Ihrem Unternehmen durchführen und dabei meine bisherigen Erfahrungen sowie meine fachlichen Kenntnisse in ein konkretes Projekt einbringen. Über die Möglichkeit eines persönlichen Gesprächs und einen Austausch zu möglichen Themenstellungen freue ich mich sehr.
+Bereits in meiner Jugend unterstützte ich regelmäßig einen Landwirt und lernte dabei den Umgang mit landwirtschaftlichen Fahrzeugen und Anbaugeräten kennen. Mein Interesse an Landtechnik hat mich seitdem begleitet und wurde durch mein Praxissemester bei Fendt nochmals verstärkt. Heute interessiert mich besonders das Zusammenspiel von Mechanik, Elektronik, Automatisierung und Software in modernen Landmaschinen. Daher würde ich meine Bachelorarbeit gerne wieder in diesem Umfeld durchführen.
+
+#v(0.7em)
+
+Über die Möglichkeit eines persönlichen Gesprächs und einen Austausch zu möglichen Themenstellungen freue ich mich sehr.
 
 #v(1.2em)
 
