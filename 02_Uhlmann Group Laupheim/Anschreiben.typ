@@ -9,7 +9,7 @@
 #let today-de = str(today.day()) + ". " + months-de.at(today.month() - 1) + " " + str(today.year())
 
 #let person = (
-  name: "Jannis Felix Wengert",
+  name: "Jannis Wengert",
   headline: "Mechatronikstudent · Hochschule Aalen",
   location: "Am Alten Bahnweg 20",
   city: "89561 Dischingen",
@@ -20,7 +20,7 @@
 
 #let application = (
   company: "Uhlmann Group Holding SE & Co. KG",
-  contact: "",
+  contact: "Frau Ann-Kathrin Schaude",
   street: "Uhlmannstraße 14 - 18",
   city: "88471 Laupheim",
   subject: "Initiativbewerbung um eine Bachelorarbeit im Bereich Mechatronik",
@@ -95,11 +95,11 @@
 #v(4mm)
 
 
-Sehr geehrte Damen und Herren,
+Sehr geehrte Frau Schaude,
 
 #v(0.5em)
 
-im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen steht ab März 2027 meine Bachelorarbeit an. Diese würde ich gerne in Zusammenarbeit mit Ihrem Unternehmen durchführen. Besonders interessieren mich technische Aufgabenstellungen, bei denen verschiedene Bereiche der Mechatronik zusammenkommen.
+im Rahmen meines Bachelorstudiums Mechatronik an der Hochschule Aalen steht ab März 2027 meine Bachelorarbeit an. Diese würde ich gerne in Zusammenarbeit mit Ihrem Unternehmen durchführen. Für die Themenwahl bin ich innerhalb der Mechatronik offen.
 
 #v(0.7em)
 
@@ -115,7 +115,7 @@ Aktuell arbeite ich neben meinem Studium bei Vetter Getriebetechnik. Dort unters
 
 #v(0.7em)
 
-Die Arbeit im Sondermaschinenbau hat mir bereits während meiner Ausbildung gut gefallen. Besonders interessant fand ich es, an Maschinen von der Montage über die elektrische Installation bis hin zur Inbetriebnahme mitzuarbeiten. Deshalb kann ich mir gut vorstellen, meine Bachelorarbeit wieder in diesem Bereich zu schreiben. 
+Die Arbeit im Sondermaschinenbau hat mir bereits während meiner Ausbildung gut gefallen. Besonders interessant fand ich es, an Maschinen von der Montage über die elektrische Installation bis hin zur Inbetriebnahme mitzuarbeiten. Deshalb kann ich mir gut vorstellen, meine Bachelorarbeit in diesem Bereich zu schreiben. 
 
 #v(0.7em)
 

@@ -9,7 +9,7 @@
 #let today-de = str(today.day()) + ". " + months-de.at(today.month() - 1) + " " + str(today.year())
 
 #let person = (
-  name: "Jannis Felix Wengert",
+  name: "Jannis Wengert",
   headline: "Mechatronikstudent · Hochschule Aalen",
   location: "Am Alten Bahnweg 20",
   city: "89561 Dischingen",
