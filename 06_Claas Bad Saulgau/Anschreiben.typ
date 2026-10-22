@@ -23,7 +23,7 @@
   contact: "Frau Bohner",
   street: "Zeppelinstraße 1",
   city: "88348 Bad Saulgau",
-  subject: "Bewerbung um eine Abschlussarbeit im Bereich Vorentwicklung",
+  subject: "Bewerbung um eine Abschlussarbeit in der Vorentwicklung",
   date: today-de,
 )
 // ===== Ende Daten =====

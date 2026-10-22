@@ -119,10 +119,6 @@ Die Themen Mechatronik und Robotik machen mir auch im Studium besonders viel Spa
 
 #v(0.7em)
 
-Da die Stelle aktuell als Praktikum ausgeschrieben ist, würde ich mich freuen, wenn ab März 2027 auch eine Bachelorarbeit in diesem Bereich möglich wäre.
-
-#v(0.7em)
-
 Über die Möglichkeit eines persönlichen Gesprächs und einen Austausch zu möglichen Themenstellungen freue ich mich sehr.
 
 #v(1.2em)
